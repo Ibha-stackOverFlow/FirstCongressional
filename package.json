@@ -23,14 +23,14 @@
     "chart.js": "^2.9.3",
     "install": "^0.13.0",
     "ng2-charts": "^2.3.0",
-    "npm": "^6.13.6",
+    "npm": "^9.6.6",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.803.23",
-    "@angular/cli": "^8.3.23",
+    "@angular/cli": "^16.0.0",
     "@angular/compiler-cli": "~8.2.9",
     "@angular/language-service": "~8.2.9",
     "@types/jasmine": "~3.3.8",
